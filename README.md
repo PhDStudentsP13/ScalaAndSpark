@@ -3,8 +3,7 @@ Welcome everybody. Because bookemarks are too confidentials i decided to share e
 
 Some comments will be added with time i hope :smile:
 
-# [Scala](https://www.scala-lang.org/)
-[Use it with wisely](http://www.scala-lang.org/api/current/#package)
+# [Scala](https://www.scala-lang.org/), [use it with wisely](http://www.scala-lang.org/api/current/#package)
 ## The famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects
 ## Basics
 ### Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
@@ -41,6 +40,7 @@ Some comments will be added with time i hope :smile:
 It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
+### With great power comes great responsibility
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
@@ -61,7 +61,7 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 * https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
 ### [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 ### Cool projects
-* [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) families
+* [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
 
 # Awesomes blogs
 - http://www.lihaoyi.com/
