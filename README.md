@@ -4,7 +4,7 @@ Welcome everybody. Because bookemarks are too confidentials i decided to share e
 Some comments will be added with time.
 
 # Scala
-[Use it with wiseness](http://www.scala-lang.org/api/current/#package)
+[Use it with wisely](http://www.scala-lang.org/api/current/#package)
 ## The famous github regrouping most starred project
 https://github.com/lauris/awesome-scala
 ## Basics
