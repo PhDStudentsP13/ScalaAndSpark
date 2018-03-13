@@ -12,25 +12,25 @@ Some comments will be added with time i hope :smile:
  - http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
  - http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 ### Concurency
-https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
+ - https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
 ### [Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))
-http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
+ - http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## [Scala cheatsheet from a java point of view](https://mbonaci.github.io/scala/)
 ## Frameworks
 ### [Scalaz](https://github.com/scalaz/scalaz)
-[An adventure to learn scala](http://eed3si9n.com/learning-scalaz/index.html)
+ - [An adventure to learn scala](http://eed3si9n.com/learning-scalaz/index.html)
 ### [Breeze](https://github.com/scalanlp/breeze)
-[API](http://www.scalanlp.org/api/breeze/#breeze.package)
+ - [API](http://www.scalanlp.org/api/breeze/#breeze.package)
 
 ### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Design Patterns
-### [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
-### [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
-### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
-### [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
-### [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
-### [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
+- ### [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
+- ### [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
+- ### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
+- ### [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+- ### [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+- ### [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
