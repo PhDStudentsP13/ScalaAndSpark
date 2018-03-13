@@ -1,7 +1,7 @@
 # Scala And Spark Usefull Links
 Welcome everybody. Because bookemarks are too confidentials i decided to share every usefull links i fall in during my learning of Scala and Spark. Don't hesitate to add some cool links i have missed.
 
-Some comments will be added with time.
+Some comments will be added with time i hope :smile:
 
 # [Scala](https://www.scala-lang.org/)
 [Use it with wisely](http://www.scala-lang.org/api/current/#package)
@@ -33,18 +33,17 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### Equivalence between Java and Scala
-http://rea.tech/java-to-scala-cheatsheet/)
+http://rea.tech/java-to-scala-cheatsheet/
 
 https://mbonaci.github.io/scala/
-
 # [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
-## How can we talk ow spark without refer to the [Databricks blog](https://databricks.com/blog)
+## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
 ## General learning purpose
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
-https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 
+https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 
 ## Basics
 [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
