@@ -6,15 +6,18 @@ Some comments will be added with time i hope :smile:
 # [Scala](https://www.scala-lang.org/), [use it with wisely](http://www.scala-lang.org/api/current/#package)
 ## The famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects
 ## Basics
-### Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
-### Option or the nice way to avoid null
-* http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
-* http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
-### Concurency
-* https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
-### [Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))
+* Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
+## Specifics aspects
+* **Option** or the nice way to avoid null
+  * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
+  * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
+* **Concurency**
+  * https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
+* **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
 * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
-## [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
+## Overall
+* [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
+* [The Neophyte's Guide to Scala](The Neophyte's Guide to Scala)
 ## Frameworks 
 * **[Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
 * **[Scalaz](https://github.com/scalaz/scalaz)**
@@ -23,7 +26,7 @@ Some comments will be added with time i hope :smile:
   * [API](http://www.scalanlp.org/api/breeze/#breeze.package)
   * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
-### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
+## [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Design Patterns
 - [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
@@ -33,8 +36,8 @@ Some comments will be added with time i hope :smile:
 - [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 - [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 ## Miscellaneous
-### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
-### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
+* [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
+* [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
 # Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
 It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
@@ -47,9 +50,9 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
-## Basics
-* [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
-* [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
+* **Specifics aspects**
+  * [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
+  * [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
 ### MLLib examples
 * http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
 ## Miscellaneous
