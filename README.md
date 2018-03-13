@@ -7,25 +7,29 @@ Some comments will be added with time i hope :smile:
 ## The famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects
 ## Basics
 * Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
+## Overall
+* [Because we have to begin somewhere](https://www.scala-exercises.org/)
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Tweeter Scala School](https://twitter.github.io/scala_school/index.html)
+* [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
 ## Specifics aspects
 * **Option** or the nice way to avoid null
   * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
   * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 * **Generics**
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
-  * [Functions]
-* **[Implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+  * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
 * **[Covariance and Contravariance](https://docs.scala-lang.org/tour/variances.html)**
   * http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/
+  * https://twitter.github.io/scala_school/type-basics.html
+  * https://apiumhub.com/tech-blog-barcelona/scala-generics-covariance-contravariance/
   * https://www.atlassian.com/blog/software-teams/covariance-and-contravariance-in-scala
   * http://julien.richard-foy.fr/blog/2013/02/21/be-friend-with-covariance-and-contravariance/
+* **[Implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
 * **Concurency**
   * https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
-## Overall
-* [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
-* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 ## Frameworks 
 * **[Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
 * **[Scalaz](https://github.com/scalaz/scalaz)**
@@ -76,5 +80,6 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 
 # Awesomes blogs
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear fellas :wink:.
+* https://twitter.github.io/scala_school/index.html
 * http://www.lihaoyi.com/
 * http://danielwestheide.com/blog/archives/
