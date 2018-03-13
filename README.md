@@ -17,7 +17,7 @@ Some comments will be added with time i hope :smile:
 * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Overall
 * [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
-* [The Neophyte's Guide to Scala](The Neophyte's Guide to Scala)
+* [The Neophyte s Guide to Scala](The Neophyte's Guide to Scala)
 ## Frameworks 
 * **[Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
 * **[Scalaz](https://github.com/scalaz/scalaz)**
