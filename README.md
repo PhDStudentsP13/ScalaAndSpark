@@ -15,8 +15,9 @@ http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-t
 http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 ### Concurency
 https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
-### Did you said monad
+### [Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
+## [Scala cheatsheet from a java point of view](https://mbonaci.github.io/scala/)
 ## Frameworks
 ### [Scalaz](https://github.com/scalaz/scalaz)
 [An adventure to learn scala](http://eed3si9n.com/learning-scalaz/index.html)
@@ -35,11 +36,14 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
-### [Scala cheatsheet from a java point of view](https://mbonaci.github.io/scala/)
+
+# Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook) which is as usefull for Scala than for Spark
+
 # [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
+
 ## General learning purpose
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 
