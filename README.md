@@ -9,21 +9,21 @@ Some comments will be added with time i hope :smile:
 ## Basics
 ### Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
 ### Option or the nice way to avoid null
- - http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
- - http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
+* http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
+* http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 ### Concurency
- - https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
+* https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
 ### [Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))
- - http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
+* http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
 ## Frameworks 
- - ** [Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
- - **[Scalaz](https://github.com/scalaz/scalaz)**
-  - [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
- - **[Breeze](https://github.com/scalanlp/breeze)**
-  - [API](http://www.scalanlp.org/api/breeze/#breeze.package)
-  - [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
-  - [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
+* **[Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
+* **[Scalaz](https://github.com/scalaz/scalaz)**
+  * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
+* **[Breeze](https://github.com/scalanlp/breeze)**
+  * [API](http://www.scalanlp.org/api/breeze/#breeze.package)
+  * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
+  * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
 ### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Design Patterns
@@ -44,28 +44,24 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
-
 ## General learning purpose
-https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
-
-https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
-
+* https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
+* https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 ## Basics
-[Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
-
-[Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
+* [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
+* [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
 ### MLLib examples
- - http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
+* http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
 ## Miscellaneous
 ### Use non serializable objects
-- https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
+* https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
 ### Tuning your spark applications
-- http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
+* http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
 ### Some troubleshootings
-- https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
+* https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
 ### [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 ### Cool projects
-- [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) families
+* [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) families
 
 # Awesomes blogs
 - http://www.lihaoyi.com/
