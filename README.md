@@ -38,12 +38,9 @@ http://rea.tech/java-to-scala-cheatsheet/
 
 https://mbonaci.github.io/scala/
 
-### Awesomes blogs
-http://www.lihaoyi.com/
-
 # Spark
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
-## How can we talk ow spark without refer the [Databricks blog](https://databricks.com/blog)
+## How can we talk ow spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
 ## General learning purpose
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
@@ -67,3 +64,6 @@ https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for
 https://mapr.com/blog/how-log-apache-spark/
 ### Cool projects
 https://github.com/saurfang/spark-tsne
+
+# Awesomes blogs
+http://www.lihaoyi.com/
