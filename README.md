@@ -24,13 +24,12 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ### [Breeze](https://github.com/scalanlp/breeze)
 [API](http://www.scalanlp.org/api/breeze/#breeze.package)
 
-### Benchmarking Scala collections
-http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html
+### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Patterns
-### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
 ### [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
-### [A master thesis on differents patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
+### [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### Equivalence between Java and Scala
