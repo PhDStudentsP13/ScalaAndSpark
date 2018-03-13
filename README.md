@@ -12,6 +12,7 @@ https://github.com/lauris/awesome-scala
 https://www.scala-exercises.org/
 ### Learn about Option
 http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
+
 http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 ### Concurency
 https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
@@ -34,6 +35,7 @@ http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/
 http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/
 ## Equivalence between Java and Scala
 http://rea.tech/java-to-scala-cheatsheet/
+
 https://mbonaci.github.io/scala/
 
 ## Awesomes blogs
@@ -43,6 +45,7 @@ http://www.lihaoyi.com/
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk ow spark without refer the [Databricks blog](https://databricks.com/blog)
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
+
 https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 ### Use non serializable objects
 https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
