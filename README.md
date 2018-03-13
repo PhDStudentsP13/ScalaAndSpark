@@ -67,4 +67,6 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 * [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
 
 # Awesomes blogs
-- http://www.lihaoyi.com/
+Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear fellas :wink:.
+* http://www.lihaoyi.com/
+* http://danielwestheide.com/blog/archives/
