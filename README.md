@@ -28,8 +28,7 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html
 ## Sbt
 ## Patterns
-### The @transient lazy pattern
-http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/
+### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
 ## Miscellaneous
 ### Union Types
 http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/
