@@ -25,10 +25,13 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 
 ### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
-## Patterns
+## Design Patterns
 ### [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
+### [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
 ### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
 ### [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+### [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+### [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### Equivalence between Java and Scala
