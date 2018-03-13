@@ -19,9 +19,9 @@ https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
 ### Did you said monad
 http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ### Frameworks
-### Learning Scalaz
+## [Scalaz](https://github.com/scalaz/scalaz)
 http://eed3si9n.com/learning-scalaz/index.html
-### Breeze
+## [Breeze](https://github.com/scalanlp/breeze)
 http://www.scalanlp.org/api/breeze/#breeze.package
 
 ### Benchmarking Scala collections
