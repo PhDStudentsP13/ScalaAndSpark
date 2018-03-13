@@ -44,8 +44,10 @@ http://www.lihaoyi.com/
 # Spark
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk ow spark without refer the [Databricks blog](https://databricks.com/blog)
-https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 
+## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
+## General learning purpose
+https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 ### Use non serializable objects
 https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
