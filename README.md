@@ -5,12 +5,11 @@ Some comments will be added with time i hope :smile:
 
 # [Scala](https://www.scala-lang.org/)
 [Use it with wisely](http://www.scala-lang.org/api/current/#package)
-## The famous github regrouping most starred project
-https://github.com/lauris/awesome-scala
+## [The famous awesome-scala github regrouping most starred projects](https://github.com/lauris/awesome-scala)
 ## Basics
 ### Learn Scala standard library and framework through exercising
 https://www.scala-exercises.org/
-### Learn about Option
+### Option
 http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
 
 http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
