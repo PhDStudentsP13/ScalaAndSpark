@@ -3,7 +3,7 @@ Welcome everybody. Because bookemarks are too confidentials i decided to share e
 
 Some comments will be added with time.
 
-# Scala
+# [Scala](https://www.scala-lang.org/)
 [Use it with wisely](http://www.scala-lang.org/api/current/#package)
 ## The famous github regrouping most starred project
 https://github.com/lauris/awesome-scala
@@ -26,18 +26,19 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 
 ### Benchmarking Scala collections
 http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html
-## Sbt
+## [Sbt](https://www.scala-sbt.org/)
 ## Patterns
 ### [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
+### [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
+### [A master thesis on differents patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 ## Miscellaneous
-### Union Types
-http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/
+### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### Equivalence between Java and Scala
-http://rea.tech/java-to-scala-cheatsheet/
+http://rea.tech/java-to-scala-cheatsheet/)
 
 https://mbonaci.github.io/scala/
 
-# Spark
+# [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk ow spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
