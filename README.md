@@ -15,14 +15,15 @@ Some comments will be added with time i hope :smile:
  - https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
 ### [Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))
  - http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
-## [Scala cheatsheet from a java point of view](https://mbonaci.github.io/scala/)
-## Frameworks
-### [Scalaz](https://github.com/scalaz/scalaz)
- - [An adventure to learn scala](http://eed3si9n.com/learning-scalaz/index.html)
-### [Breeze](https://github.com/scalanlp/breeze)
- - [API](http://www.scalanlp.org/api/breeze/#breeze.package)
- - [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
- - [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
+## [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
+## Frameworks 
+ - ** [Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
+ - **[Scalaz](https://github.com/scalaz/scalaz)**
+  - [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
+ - **[Breeze](https://github.com/scalanlp/breeze)**
+  - [API](http://www.scalanlp.org/api/breeze/#breeze.package)
+  - [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
+  - [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
 ### [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Design Patterns
@@ -37,12 +38,12 @@ Some comments will be added with time i hope :smile:
 ### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
 # Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
-It offers multiple usefull functionality to practice Scala and Spark for any kind of purposes.
+It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
-## The very usefull [awesome spark](https://github.com/awesome-spark/awesome-spark)
+## The very usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
 
 ## General learning purpose
 https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
@@ -62,10 +63,9 @@ https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 - http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
 ### Some troubleshootings
 - https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
-### Adjust your log levels
-- https://mapr.com/blog/how-log-apache-spark/
+### [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 ### Cool projects
-- https://github.com/saurfang/spark-tsne
+- [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) families
 
 # Awesomes blogs
 - http://www.lihaoyi.com/
