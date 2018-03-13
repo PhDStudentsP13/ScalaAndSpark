@@ -55,9 +55,8 @@ Some comments will be added with time i hope :smile:
 It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
-### With great power comes great responsibility
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
-## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
+## How can we talk about spark without refer to the [Databricks blog](https://databricks.com/blog)
 ## The very usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
@@ -68,15 +67,14 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
 ### MLLib examples
 * http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
 ## Miscellaneous
-### Use non serializable objects
-* https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
-### Tuning your spark applications
-* http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
-### Some troubleshootings
-* https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
-### [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
+* [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
+* [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
+* [Some troubleshootings](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
+* [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 ### Cool projects
 * [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
+* [LIPN on Spark](https://github.com/Spark-clustering-notebook)
+  * This is what we are making to Paris 13 University on Spark
 
 # Awesomes blogs
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear fellas :wink:.
