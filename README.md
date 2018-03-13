@@ -53,18 +53,18 @@ https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 
 [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
 ### MLLib examples
-http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
+ - http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
 ## Miscellaneous
 ### Use non serializable objects
-https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
+- https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/
 ### Tuning your spark applications
-http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
+- http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/
 ### Some troubleshootings
-https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
+- https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/
 ### Adjust your log levels
-https://mapr.com/blog/how-log-apache-spark/
+- https://mapr.com/blog/how-log-apache-spark/
 ### Cool projects
-https://github.com/saurfang/spark-tsne
+- https://github.com/saurfang/spark-tsne
 
 # Awesomes blogs
-http://www.lihaoyi.com/
+- http://www.lihaoyi.com/
