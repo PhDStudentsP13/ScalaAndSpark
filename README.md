@@ -7,9 +7,8 @@ Some comments will be added with time i hope :smile:
 [Use it with wisely](http://www.scala-lang.org/api/current/#package)
 ## [The famous awesome-scala github regrouping most starred projects](https://github.com/lauris/awesome-scala)
 ## Basics
-### Learn Scala standard library and framework through exercising
-https://www.scala-exercises.org/
-### Option
+### [Learn Scala standard library and framework through exercising](https://www.scala-exercises.org/)
+### Option or the nice way to avoid null
 http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
 
 http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
@@ -37,7 +36,8 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 ### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
-# Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook) which is as usefull for Scala than for Spark
+# Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
+It offers multiple usefull functionality to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
