@@ -34,10 +34,8 @@ http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ### [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 ## Miscellaneous
 ### [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
-### Equivalence between Java and Scala
-http://rea.tech/java-to-scala-cheatsheet/
-
-https://mbonaci.github.io/scala/
+### [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
+### [Scala cheatsheet from a java point of view](https://mbonaci.github.io/scala/)
 # [Spark](https://spark.apache.org/)
 ## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
 ## How can we talk of spark without refer to the [Databricks blog](https://databricks.com/blog)
