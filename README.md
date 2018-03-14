@@ -76,7 +76,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
   * **Why avoid [GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)**
   * **[AggregateByKey](http://codingjunkie.net/spark-agr-by-key/)**
   * **CombineByKey**
-    *Examples [one](https://www.google.fr/search?q=combineBykey&oq=combineBykey&aqs=chrome..69i57j35i39j0l4.2345j0j4&sourceid=chrome&ie=UTF-8) [two](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/) and [three](http://codingjunkie.net/spark-combine-by-key/)  
+    * Examples [one](https://www.google.fr/search?q=combineBykey&oq=combineBykey&aqs=chrome..69i57j35i39j0l4.2345j0j4&sourceid=chrome&ie=UTF-8) [two](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/) and [three](http://codingjunkie.net/spark-combine-by-key/)  
 ## MLLib examples
 * [Pipelines](http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines)
 * **Some troubleshootings**
