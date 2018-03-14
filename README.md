@@ -34,7 +34,7 @@ Some comments will be added with time i hope :smile:
 ## Frameworks 
 * **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nicely named Scala/Java library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**, an extension of the standard scala library that allow to do [pure functional programming](https://www.quora.com/What-is-Scalaz-useful-for)
-  * [An introduction](http://noelmarkham.github.io/scalaz-intro/#/]
+  * [An introduction](http://noelmarkham.github.io/scalaz-intro/#/)
   * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
 * **[Breeze](https://github.com/scalanlp/breeze)**
   * [API](http://www.scalanlp.org/api/breeze/#breeze.package)
