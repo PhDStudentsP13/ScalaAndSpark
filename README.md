@@ -1,5 +1,5 @@
 # Scala And Spark Usefull Links
-Welcome everybody. Because bookemarks are too confidentials i decided to share every usefull links i fall in during my learning of Scala and Spark. Don't hesitate to add some cool links i have missed.
+Welcome everybody. Because bookemarks are too confidentials i decided to share every usefull links i fall on during my learning of Scala and Spark. Don't hesitate to add cool links i have missed.
 
 Some comments will be added with time i hope :smile:
 
@@ -14,7 +14,7 @@ Some comments will be added with time i hope :smile:
 * [Tweeter Scala School](https://twitter.github.io/scala_school/index.html)
 * [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
 ## Specifics aspects
-* **Option** or the nice way to avoid null
+* **Options** or the nice way to avoid null
   * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
   * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 * **Generics**
@@ -32,8 +32,9 @@ Some comments will be added with time i hope :smile:
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Frameworks 
-* **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nice named Scala/Java library for machine learning.
-* **[Scalaz](https://github.com/scalaz/scalaz)**
+* **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nicely named Scala/Java library for machine learning.
+* **[Scalaz](https://github.com/scalaz/scalaz)**, an extension of the standard scala library that allow to do [pure functional programming](https://www.quora.com/What-is-Scalaz-useful-for)
+  * [An introduction](http://noelmarkham.github.io/scalaz-intro/#/]
   * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
 * **[Breeze](https://github.com/scalanlp/breeze)**
   * [API](http://www.scalanlp.org/api/breeze/#breeze.package)
@@ -61,7 +62,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
 It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
-Let's start with [the official website guides](http://spark.apache.org/docs/latest/quick-start.html) without forgetting to give the link towards the [Databricks blog](https://databricks.com/blog) and for impatients the usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
+Let's start with the **[official website guides](http://spark.apache.org/docs/latest/quick-start.html)** without forgetting to give the link towards the **[Databricks blog](https://databricks.com/blog)** and for impatients the usefull **[awesome-spark](https://github.com/awesome-spark/awesome-spark)**
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
@@ -69,7 +70,7 @@ Let's start with [the official website guides](http://spark.apache.org/docs/late
   * [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
   * [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
 ## MLLib examples
-* http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
+* [Pipelines](http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines)
 ## Miscellaneous
 * [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
 * [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
@@ -83,6 +84,6 @@ Let's start with [the official website guides](http://spark.apache.org/docs/late
 
 # Awesomes blogs
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
-* [Twitter scala's school](https://twitter.github.io/scala_school/index.html)
+* [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
 * http://www.lihaoyi.com/
 * http://danielwestheide.com/blog/archives/
