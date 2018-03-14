@@ -31,7 +31,7 @@ Some comments will be added with time i hope :smile:
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Frameworks 
-* **[Smile](https://haifengl.github.io/smile/)** which is a Scala/Java library for machine learning
+* **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nice named Scala/Java library library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**
   * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
 * **[Breeze](https://github.com/scalanlp/breeze)**
