@@ -32,7 +32,7 @@ Some comments will be added with time i hope :smile:
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Frameworks 
-* **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nice named Scala/Java library library for machine learning.
+* **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nice named Scala/Java library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**
   * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
 * **[Breeze](https://github.com/scalanlp/breeze)**
@@ -40,7 +40,12 @@ Some comments will be added with time i hope :smile:
   * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
 ## [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
+Because we hardly desire to know the commodities comming with our favorite scala's collections.
 ## [Sbt](https://www.scala-sbt.org/)
+
+* **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
+  * [An example of a sbt multi-project](https://github.com/aaronp/multi-project)
+  * [A bit of explanations](https://alvinalexander.com/scala/how-to-create-sbt-projects-with-subprojects)
 ## Design Patterns
 * [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
 * [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
