@@ -59,31 +59,40 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
 ## Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
-It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
+It offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
-Let's start with the **[official website guides](http://spark.apache.org/docs/latest/quick-start.html)** without forgetting to give the link towards the **[Databricks blog](https://databricks.com/blog)** and for impatients the usefull **[awesome-spark](https://github.com/awesome-spark/awesome-spark)**
+Let's start with the **[official website guides](http://spark.apache.org/docs/latest/quick-start.html)** without forgetting to give the link towards the **[Databricks blog](https://databricks.com/blog)** and for impatients the usefull **[awesome-spark](https://github.com/awesome-spark/awesome-spark)** and **[spark-packages](https://spark-packages.org/)** links.
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 * **Specifics aspects**
   * [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
-  * [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
+  * **[Caching/Persisting]**(https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-rdd-caching.html)
+  * **[Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)**
+  * **CombineByKey**
+    *[Example 1](https://www.google.fr/search?q=combineBykey&oq=combineBykey&aqs=chrome..69i57j35i39j0l4.2345j0j4&sourceid=chrome&ie=UTF-8)
+    *[Example 2](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/)
+    *[Example 3](http://codingjunkie.net/spark-combine-by-key/)
+  * **[AggregateByKey](http://codingjunkie.net/spark-agr-by-key/)**
 ## MLLib examples
 * [Pipelines](http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines)
-## Miscellaneous
-* [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
-* [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
 * **Some troubleshootings**
+* [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
   *[Heavy workloads common issues](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
 * [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
+## Miscellaneous
+* [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
 ### Cool projects
 * [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
 * [LIPN on Spark](https://github.com/Spark-clustering-notebook)
   * This is what we are making to Paris 13 University on Spark
 
-# Awesomes blogs
+# Awesomes links and references
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
 * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
 * http://www.lihaoyi.com/
 * http://danielwestheide.com/blog/archives/
+* [Databricks blog](https://databricks.com/blog)
+* [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+* [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) by Scala's father
