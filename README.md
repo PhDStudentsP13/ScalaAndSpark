@@ -3,8 +3,9 @@ Welcome everybody. Because bookemarks are too confidentials i decided to share e
 
 Some comments will be added with time i hope :smile:
 
-# [Scala](https://www.scala-lang.org/), [use it wisely](http://www.scala-lang.org/api/current/#package) and don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html)
-## The famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects
+# [Scala](https://www.scala-lang.org/)
+
+[Use it wisely](http://www.scala-lang.org/api/current/#package), don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html) and if you're ready go directly to the famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects.
 ## Basics
 * Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
 ## Overviews
@@ -41,35 +42,34 @@ Some comments will be added with time i hope :smile:
 ## [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 ## [Sbt](https://www.scala-sbt.org/)
 ## Design Patterns
-- [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
-- [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
-- [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
-- [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
-- [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
-- [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
+* [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
+* [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
+* [The @transient lazy pattern](http://fdahms.com/2015/10/14/scala-and-the-transient-lazy-val-pattern/)
+* [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+* [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+* [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 ## Miscellaneous
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
-# Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
+## Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
 It offers multiple usefull functionalities to practice Scala and Spark for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
-## [The official website guides](http://spark.apache.org/docs/latest/quick-start.html)
-## How can we talk about spark without refer to the [Databricks blog](https://databricks.com/blog)
-## The very usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
+Let's start with [the official website guides](http://spark.apache.org/docs/latest/quick-start.html) without forgetting to give the link towards the [Databricks blog](https://databricks.com/blog) and for impatients the usefull [awesome-spark](https://github.com/awesome-spark/awesome-spark)
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 * **Specifics aspects**
   * [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
   * [Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)
-### MLLib examples
+## MLLib examples
 * http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines
 ## Miscellaneous
 * [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
 * [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
-* [Some troubleshootings](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
+* **Some troubleshootings**
+  *[Heavy workloads common issues](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
 * [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 ### Cool projects
 * [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
