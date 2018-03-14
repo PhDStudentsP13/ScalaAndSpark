@@ -14,9 +14,16 @@ Some comments will be added with time i hope :smile:
 * [Tweeter Scala School](https://twitter.github.io/scala_school/index.html)
 * [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
 ## Specifics aspects
-* **Options** or the nice way to avoid null
-  * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
-  * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
+* **Keywords**
+  * **[for with conditions](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)
+  * **[for yield]**(https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)
+  * **lazy**)
+    * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
+    * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
+  * **Option** or the nice way to avoid null
+    * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
+    * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
+  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
 * **Generics**
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
   * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
@@ -26,9 +33,8 @@ Some comments will be added with time i hope :smile:
   * https://apiumhub.com/tech-blog-barcelona/scala-generics-covariance-contravariance/
   * https://www.atlassian.com/blog/software-teams/covariance-and-contravariance-in-scala
   * http://julien.richard-foy.fr/blog/2013/02/21/be-friend-with-covariance-and-contravariance/
-* **[Implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
 * **Concurency**
-  * https://blog.matthewrathbone.com/2017/03/28/scala-concurrency-options.html
+  * https://blog.mathewrathbone.com/2017/03/28/scala-concurrency-options.html
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 ## Frameworks 
@@ -80,10 +86,10 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 ## MLLib examples
 * [Pipelines](http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines)
 * **Some troubleshootings**
-* [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
-  *[Heavy workloads common issues](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
-* [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
+  * [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
+  * [Heavy workloads common issues](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
 ## Miscellaneous
+* [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 * [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
 ### Cool projects
 * [TSNE on spark](https://github.com/saurfang/spark-tsne), the TSNE is a dimentional reduction technique from the [manifold](https://en.wikipedia.org/wiki/Manifold) family
