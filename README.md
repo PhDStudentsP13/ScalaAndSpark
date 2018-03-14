@@ -74,7 +74,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 ## General learning purpose
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
-* **Specifics aspects**
+## Specifics aspects
   * **[Caching and Persistance](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-rdd-caching.html)**
   * **[Broadcast variables](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-broadcast.html)**
   * **[Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)**
@@ -103,7 +103,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
 * [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) let's start by [Scala's father](https://en.wikipedia.org/wiki/Martin_Odersky) last edition book.
 * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
-* http://www.lihaoyi.com/
+* [Haoyi Li's blog](http://www.lihaoyi.com/)
 * http://danielwestheide.com/blog/archives/
 * [Databricks blog](https://databricks.com/blog)
 * [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
