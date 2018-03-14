@@ -66,8 +66,8 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 
-## Before introduce Spark stuff, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
-It offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes.
+## Before introduce Spark, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
+So why introduce a first appearance Spark tool, simply because it offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes.
 
 # [Spark](https://spark.apache.org/)
 Let's start with the **[official website guides](http://spark.apache.org/docs/latest/quick-start.html)** without forgetting to give the link towards the **[Databricks blog](https://databricks.com/blog)** and for impatients the usefull **[awesome-spark](https://github.com/awesome-spark/awesome-spark)** and **[spark-packages](https://spark-packages.org/)** links.
@@ -75,22 +75,23 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 * https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
 * https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 * **Specifics aspects**
-  * [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
   * **[Caching and Persistance](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-rdd-caching.html)**
-  * **[Brodcast variables](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-broadcast.html)**
+  * **[Broadcast variables](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-broadcast.html)**
   * **[Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)**
-  * **ReduceByKey**
-    * [How it works](https://stackoverflow.com/questions/30145329/reducebykey-how-does-it-work-internally)
-  * **Why avoid [GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)**
-  * **[AggregateByKey](http://codingjunkie.net/spark-agr-by-key/)**
-  * **CombineByKey**
-    * Examples [one](https://www.google.fr/search?q=combineBykey&oq=combineBykey&aqs=chrome..69i57j35i39j0l4.2345j0j4&sourceid=chrome&ie=UTF-8) [two](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/) and [three](http://codingjunkie.net/spark-combine-by-key/)  
+  * **ByKey Operators**
+    * **ReduceByKey**
+      * [How it works](https://stackoverflow.com/questions/30145329/reducebykey-how-does-it-work-internally)
+    * **Why avoid [GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)**
+    * **[AggregateByKey](http://codingjunkie.net/spark-agr-by-key/)**
+    * **CombineByKey**
+      * Examples [one](https://www.google.fr/search?q=combineBykey&oq=combineBykey&aqs=chrome..69i57j35i39j0l4.2345j0j4&sourceid=chrome&ie=UTF-8) [two](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/) and [three](http://codingjunkie.net/spark-combine-by-key/)  
 ## MLLib examples
 * [Pipelines](http://www.sparktutorials.net/Spark+MLLib+-+Predict+Store+Sales+with+ML+Pipelines)
 * **Some troubleshootings**
   * [Use non serializable objects](https://www.nicolaferraro.me/2016/02/22/using-non-serializable-objects-in-apache-spark/)
   * [Heavy workloads common issues](https://developer.ibm.com/hadoop/2016/07/18/troubleshooting-and-tuning-spark-for-heavy-workloads/)
 ## Miscellaneous
+* [Parse your csv](http://carminedimascio.com/2015/02/apache-spark-convert-csv-to-rdd/)
 * [Adjust your log levels](https://mapr.com/blog/how-log-apache-spark/)
 * [Tuning your spark applications](http://evertrue.github.io/blog/2015/03/20/tuning-guidelines-for-apache-spark/)
 ### Cool projects
