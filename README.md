@@ -1,5 +1,5 @@
 # Scala And Spark Usefull Links
-Welcome everybody. Because bookemarks are too confidentials i decided to share every usefull links i fall on during my learning of Scala and Spark. Don't hesitate to add cool links i have missed.
+Welcome everybody. Because bookemarks are too confidentials i decided to share every usefull links i fall on during my ongoing learning of Scala and Spark trying to organize them as well as i can. Don't hesitate to add cool links i have missed.
 
 Some comments will be added with time i hope :smile:
 
@@ -15,7 +15,7 @@ Some comments will be added with time i hope :smile:
 * [Scala cheatsheet](https://mbonaci.github.io/scala/) from a java point of view
 ## Specifics aspects
 * **Keywords**
-  * **[for with conditions](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)
+  * **[for with conditions](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)**
   * **[for yield](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)**
   * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
@@ -24,6 +24,8 @@ Some comments will be added with time i hope :smile:
     * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
     * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
   * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+* **Closure**
+  * [Here](https://www.tutorialspoint.com/scala/scala_closures.htm) is an example and an explanation.
 * **Generics**
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
   * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
@@ -98,9 +100,9 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 
 # Awesomes links and references
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
+* [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) let's start by [Scala's father](https://en.wikipedia.org/wiki/Martin_Odersky) last edition book.
 * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
 * http://www.lihaoyi.com/
 * http://danielwestheide.com/blog/archives/
 * [Databricks blog](https://databricks.com/blog)
 * [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
-* [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) by Scala's father
