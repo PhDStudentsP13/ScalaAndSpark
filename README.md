@@ -77,7 +77,7 @@ It offers multiple usefull functionalities to practice Scala and Spark for any k
   * This is what we are making to Paris 13 University on Spark
 
 # Awesomes blogs
-Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear fellas :wink:.
-* https://twitter.github.io/scala_school/index.html
+Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
+* [Twitter scala's school](https://twitter.github.io/scala_school/index.html)
 * http://www.lihaoyi.com/
 * http://danielwestheide.com/blog/archives/
