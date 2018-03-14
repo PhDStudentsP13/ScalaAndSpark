@@ -3,11 +3,11 @@ Welcome everybody. Because bookemarks are too confidentials i decided to share e
 
 Some comments will be added with time i hope :smile:
 
-# [Scala](https://www.scala-lang.org/), [use it with wisely](http://www.scala-lang.org/api/current/#package) and don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html)
+# [Scala](https://www.scala-lang.org/), [use it wisely](http://www.scala-lang.org/api/current/#package) and don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html)
 ## The famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects
 ## Basics
 * Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
-## Overall
+## Overviews
 * [Because we have to begin somewhere](https://www.scala-exercises.org/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Tweeter Scala School](https://twitter.github.io/scala_school/index.html)
