@@ -78,7 +78,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
   * **[Caching and Persistance](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-rdd-caching.html)**
   * **[Broadcast variables](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/spark-broadcast.html)**
   * **[Accumulators](http://imranrashid.com/posts/Spark-Accumulators/)**
-  * **ByKey Operators**
+  * **ByKey methods**
     * **ReduceByKey**
       * [How it works](https://stackoverflow.com/questions/30145329/reducebykey-how-does-it-work-internally)
     * **Why avoid [GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)**
