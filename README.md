@@ -16,8 +16,8 @@ Some comments will be added with time i hope :smile:
 ## Specifics aspects
 * **Keywords**
   * **[for with conditions](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)
-  * **[for yield]**(https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)
-  * **lazy**)
+  * **[for yield](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)**
+  * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
   * **Option** or the nice way to avoid null
