@@ -5,8 +5,8 @@ Some comments will be added with time :smile: !
 
 # [Scala](https://www.scala-lang.org/)
 
-[Use it wisely](http://www.scala-lang.org/api/current/#package), don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html) and if you're ready go directly to the famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred projects.
-## Basics
+[Use it wisely](http://www.scala-lang.org/api/current/#package), don't forget to go for a [tour](https://docs.scala-lang.org/tour/tour-of-scala.html) and if you're ready go directly to the famous [awesome-scala](https://github.com/lauris/awesome-scala) github regrouping most starred scala projects.
+## Learn by practicing
 * Learn Scala standard library and some frameworks through [exercising](https://www.scala-exercises.org/)
 ## Overviews
 * [Because we have to begin somewhere](https://www.scala-exercises.org/)
@@ -20,12 +20,12 @@ Some comments will be added with time :smile: !
   * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
-  * **Option** or the nice way to avoid null
-    * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
-    * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
   * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)
 * **Class**
   * [Overview](https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters)
+* **Option** or the nice way to avoid null
+    * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
+    * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
 * **Closure**
   * [Here](https://www.tutorialspoint.com/scala/scala_closures.htm) is an example and an explanation.
 * **Generics**
@@ -52,11 +52,6 @@ Some comments will be added with time :smile: !
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
 ## [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
 Because we hardly desire to know the commodities comming with our favorite scala's collections.
-## [Sbt](https://www.scala-sbt.org/)
-
-* **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
-  * [An example of a sbt multi-project](https://github.com/aaronp/multi-project)
-  * [A bit of explanations](https://alvinalexander.com/scala/how-to-create-sbt-projects-with-subprojects)
 ## Design Patterns
 * [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
 * [Another cool article on multiple patterns](https://pavelfatin.com/design-patterns-in-scala/)
@@ -67,7 +62,10 @@ Because we hardly desire to know the commodities comming with our favorite scala
 ## Miscellaneous
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
-
+## [Sbt](https://www.scala-sbt.org/)
+* **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
+  * [An example of a sbt multi-project](https://github.com/aaronp/multi-project)
+  * [A bit of explanations](https://alvinalexander.com/scala/how-to-create-sbt-projects-with-subprojects)
 ## Before introduce Spark, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
 So why introduce a first appearance Spark tool, simply because it offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes.
 
