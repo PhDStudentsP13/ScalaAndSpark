@@ -20,7 +20,8 @@ Some comments will be added with time :smile: !
   * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
-  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)
+  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+    * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * **Class**
   * [Overview](https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters)
 * **Option** or the nice way to avoid null
