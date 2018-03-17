@@ -104,6 +104,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
 * Books
   * [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) let's start by [Scala's father](https://en.wikipedia.org/wiki/Martin_Odersky) last edition book.
+  * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
   * [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
 * Blogs
   * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
