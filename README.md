@@ -23,7 +23,9 @@ Some comments will be added with time :smile: !
   * **Option** or the nice way to avoid null
     * http://danielwestheide.com/blog/2012/12/19/the-neophytes-guide-to-scala-part-5-the-option-type.html
     * http://code.scottshipp.com/2015/04/17/scala-using-option-can-still-result-in-a-npe/
-  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)
+* **Class**
+  * [Overview](https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters)
 * **Closure**
   * [Here](https://www.tutorialspoint.com/scala/scala_closures.htm) is an example and an explanation.
 * **Generics**
@@ -104,6 +106,7 @@ Here are listed some blogs from where cames links in this page, thanks to these 
 * [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) let's start by [Scala's father](https://en.wikipedia.org/wiki/Martin_Odersky) last edition book.
 * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
 * [An awesome blog](http://www.lihaoyi.com/)
+* [Scala Cookbook author blog](https://alvinalexander.com/scala)
 * http://danielwestheide.com/blog/archives/
 * [Databricks blog](https://databricks.com/blog)
 * [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
