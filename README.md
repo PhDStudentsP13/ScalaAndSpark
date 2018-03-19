@@ -68,8 +68,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
   * [An example of a sbt multi-project](https://github.com/aaronp/multi-project)
   * [A bit of explanations](https://alvinalexander.com/scala/how-to-create-sbt-projects-with-subprojects)
 ## Before introduce Spark, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
-So why introduce a first appearance Spark tool, simply because it offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes. You will find complementary information about notebook on the SparkNotebook creator compagny [blog](https://blog.kensu.io/).
-
+So why introduce a first appearance Spark tool, simply because it offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes. You will find complementary informations on the SparkNotebook creator compagny [blog](https://blog.kensu.io/).
 # [Spark](https://spark.apache.org/)
 Let's start with the **[official website guides](http://spark.apache.org/docs/latest/quick-start.html)** without forgetting to give the link towards the **[Databricks blog](https://databricks.com/blog)** and for impatients the usefull **[awesome-spark](https://github.com/awesome-spark/awesome-spark)** and **[spark-packages](https://spark-packages.org/)** links.
 ## General learning purpose
