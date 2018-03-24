@@ -1,4 +1,4 @@
-# Scala And Spark Usefull Links
+# Scala And Spark
 Welcome everybody. Because bookemarks are too confidentials, at Paris 13 university, we decided to share every usefull links we fall on during our ongoing learning of Scala and Spark, trying to organize them as well as we can. Don't hesitate to add cool links we have missed.
 
 Some comments will be added with time :smile: !
