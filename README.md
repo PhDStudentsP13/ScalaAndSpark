@@ -48,7 +48,7 @@ Some comments will be added with time :smile: !
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 * **Annotations**
-* [@specialized](http://aleksandar-prokopec.com/2013/11/03/specialization-quirks.html)
+  * [@specialized](http://aleksandar-prokopec.com/2013/11/03/specialization-quirks.html)
 ## Frameworks 
 * **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nicely named Scala/Java library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**, an extension of the standard scala library that allow to do [pure functional programming](https://www.quora.com/What-is-Scalaz-useful-for)
