@@ -22,6 +22,9 @@ Some comments will be added with time :smile: !
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
   * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
     * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+* **Collection**
+  * Some practical [advices](https://abstractionextraction.wordpress.com/2014/04/12/a-simple-view-of-scala-sequences/)
+  * [Hints](https://alvinalexander.com/scala/understanding-performance-scala-collections-classes-methods-cookbook) about collection operations complexity
 * **Class**
   * [Overview](https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters)
 * **Option** or the nice way to avoid null
@@ -63,10 +66,13 @@ Because we hardly desire to know the commodities comming with our favorite scala
 ## Miscellaneous
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
+## Annotations
+* [@specialized](http://aleksandar-prokopec.com/2013/11/03/specialization-quirks.html)
 ## [Sbt](https://www.scala-sbt.org/)
 * **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
   * [An example of a sbt multi-project](https://github.com/aaronp/multi-project)
   * [A bit of explanations](https://alvinalexander.com/scala/how-to-create-sbt-projects-with-subprojects)
+* sbt publish errors while compile works, try to clean you .ivy2/local/yourProject
 ## Before introduce Spark, i will recomand to you the [SparkNotebook](https://github.com/spark-notebook/spark-notebook)
 So why introduce a first appearance Spark tool, simply because it offers multiple usefull functionalities to practice as well **Scala** as **Spark** for any kind of purposes. You will find complementary informations on the SparkNotebook creator compagny [blog](https://blog.kensu.io/).
 # [Spark](https://spark.apache.org/)
