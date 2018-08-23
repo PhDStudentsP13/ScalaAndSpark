@@ -37,6 +37,7 @@ Some comments will be added with time :smile: !
 * **Generics**
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
   * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
+* **Tail recursiv functions**
 * **[Covariance and Contravariance](https://docs.scala-lang.org/tour/variances.html)**
   * http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/
   * https://twitter.github.io/scala_school/type-basics.html
@@ -49,6 +50,7 @@ Some comments will be added with time :smile: !
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 
 ### Annotations
+* **@transient**
 * **@specialized**
   * [Type specialization](https://dzone.com/articles/type-specialization-in-scala)
   * [One StackOverFlow](https://stackoverflow.com/questions/39526409/correct-use-of-specialized-in-scala)
@@ -58,6 +60,7 @@ Some comments will be added with time :smile: !
 ## Frameworks 
 * **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nicely named Scala/Java library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**, an extension of the standard scala library that allow to do [pure functional programming](https://www.quora.com/What-is-Scalaz-useful-for)
+  * [Multiple ressources](http://hacking-scala.org/post/49050104489/scalaz-resources-for-beginners)
   * [An introduction](http://noelmarkham.github.io/scalaz-intro/#/)
   * [An adventure to learn scalaz](http://eed3si9n.com/learning-scalaz/index.html)
 * **[Breeze](https://github.com/scalanlp/breeze)**
@@ -65,8 +68,10 @@ Some comments will be added with time :smile: !
   * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet) 
 
-## [Benchmarking Scala collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
-Because we hardly desire to know the commodities comming with our favorite scala's collections.
+## Benchmarking Scala collections
+Because we hardly desire to know the commodities comming with our favorite scala's collections here are some linked ressources:
+* [Benchmarking Scala Collections](http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html)
+* [Performance Comparison between immutable Seq, List, Vector](https://danielasfregola.com/2015/06/15/which-immutable-scala-collection/)
 
 ## Design Patterns
 * [Awesome article by Hayoi](http://www.lihaoyi.com/post/OldDesignPatternsinScala.html)
@@ -75,6 +80,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [A master thesis on different patterns](https://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
 * [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
+* [Stackable Trait Pattern](https://www.artima.com/scalazine/articles/stackable_trait_pattern.html)
 
 ## Miscellaneous
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
