@@ -85,6 +85,8 @@ Because we hardly desire to know the commodities comming with our favorite scala
 ## Miscellaneous
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
+* [Returning the "Current" Type](https://tpolecat.github.io/2015/04/29/f-bounds.html)
+* [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html#fbounded)
 
 ## [Sbt](https://www.scala-sbt.org/)
 * **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
