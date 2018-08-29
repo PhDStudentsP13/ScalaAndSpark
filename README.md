@@ -132,6 +132,16 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 * [LIPN on Spark](https://github.com/Spark-clustering-notebook)
   * This is what we are making to Paris 13 University on Spark
 
+# Garbage collector optimizations
+
+## General informations and tuning
+* [Managing Memory and Garbage Collection](https://docs.oracle.com/cd/E19159-01/819-3681/6n5srlhqf/index.html)
+* [Minimize Java Memory Usage with the Right Garbage Collector](https://www.javacodegeeks.com/2017/11/minimize-java-memory-usage-right-garbage-collector.html)
+* [Tuning G1GC For SOA](http://www.ateam-oracle.com/tuning-g1gc-for-soa/)
+
+## Spark applications
+* [Tuning Java Garbage Collection for Apache Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
+
 # Awesomes links and references
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
 * Books
