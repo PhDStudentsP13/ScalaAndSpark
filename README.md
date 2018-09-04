@@ -87,6 +87,8 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 * [Returning the "Current" Type](https://tpolecat.github.io/2015/04/29/f-bounds.html)
 * [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html#fbounded)
+* [99 Scala Problems](http://blog.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-05-reverse/#series)
+* [One of many advantage of Spire](https://typelevel.org/blog/2013/07/07/generic-numeric-programming.html)
 
 ## [Sbt](https://www.scala-sbt.org/)
 * **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
@@ -138,6 +140,8 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 * [Managing Memory and Garbage Collection](https://docs.oracle.com/cd/E19159-01/819-3681/6n5srlhqf/index.html)
 * [Minimize Java Memory Usage with the Right Garbage Collector](https://www.javacodegeeks.com/2017/11/minimize-java-memory-usage-right-garbage-collector.html)
 * [Tuning G1GC For SOA](http://www.ateam-oracle.com/tuning-g1gc-for-soa/)
+* [G1Gc Tuning](https://www.oracle.com/technetwork/articles/java/g1gc-1984535.html)
+* [Others G1 GC tests](https://mpouttuclarke.wordpress.com/2013/03/13/large-java-heap-with-g1-collector-part-1/)
 
 ## Spark applications
 * [Tuning Java Garbage Collection for Apache Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
