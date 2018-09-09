@@ -89,6 +89,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [Advanced Types](https://twitter.github.io/scala_school/advanced-types.html#fbounded)
 * [99 Scala Problems](http://blog.thedigitalcatonline.com/blog/2015/04/07/99-scala-problems-05-reverse/#series)
 * [One of many advantage of Spire](https://typelevel.org/blog/2013/07/07/generic-numeric-programming.html)
+* [Higher-kinded types: the difference between giving up, and moving forward](https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html)
 
 ## [Sbt](https://www.scala-sbt.org/)
 * **[Multi-projects](https://www.scala-sbt.org/1.x/docs/Multi-Project.html)**
