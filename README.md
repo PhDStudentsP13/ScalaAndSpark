@@ -91,7 +91,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [Implicits patterns](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * [Patterns with implementation](https://github.com/jfaerman/scala-patterns)
 * [Stackable Trait Pattern](https://www.artima.com/scalazine/articles/stackable_trait_pattern.html)
-* **[Type Classes]**
+* **Type Classes**
   * [Example 1](https://alvinalexander.com/scala/fp-book/type-classes-101-introduction)
   * [Example 2](https://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html)
   * [Example 3](https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html)
