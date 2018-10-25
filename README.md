@@ -65,6 +65,7 @@ Some comments will be added with time :smile: !
 
 ## Frameworks 
 
+* **[Awesome scala](https://github.com/lauris/awesome-scala)**, refer many many awesome projects in scala
 * **[Smile :smile:](https://haifengl.github.io/smile/)** which is way more than a nicely named Scala/Java library for machine learning.
 * **[Scalaz](https://github.com/scalaz/scalaz)**, an extension of the standard scala library that allow to do [pure functional programming](https://www.quora.com/What-is-Scalaz-useful-for)
   * [Multiple ressources](http://hacking-scala.org/post/49050104489/scalaz-resources-for-beginners)
@@ -75,6 +76,7 @@ Some comments will be added with time :smile: !
   * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
 * **[Spire](https://github.com/non/spire)**
+* **[Scala.js](https://www.scala-js.org/)**
 
 ## Benchmarking Scala collections
 
@@ -171,7 +173,7 @@ Let's start with the **[official website guides](http://spark.apache.org/docs/la
 
 * [Tuning Java Garbage Collection for Apache Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 
-# Awesomes links and references
+# [Awesome scala](https://github.com/lauris/awesome-scala) links and references
 
 Here are listed some blogs from where cames links in this page, thanks to these guys we can learn more easily so thank you for you hard work dear scala fellas :wink:.
 * Books
@@ -184,3 +186,9 @@ Here are listed some blogs from where cames links in this page, thanks to these 
   * [Scala Cookbook author blog](https://alvinalexander.com/scala)
   * http://danielwestheide.com/blog/archives/
   * [Databricks blog](https://databricks.com/blog)
+
+# [Scala.js](https://www.scala-js.org/)
+
+* [Hands on Scala.js](http://www.lihaoyi.com/hands-on-scala-js/#IntrotoScala.js)
+* [Scala-js-d3](https://github.com/spaced/scala-js-d3)
+* [Getting started](https://medium.com/@michaelmangial1/getting-started-with-scala-js-scalavue-and-scalareact-for-the-javascript-developer-ac578ddcb5a8)
