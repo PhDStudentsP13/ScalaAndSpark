@@ -22,13 +22,16 @@ Some comments will be added with time :smile: !
 ## Specifics aspects
 
 * **Keywords**
-  * **[for with conditions](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)**
-  * **[for yield](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)**
+  * **for with conditions**
+    * [alvinalexander Blog](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)**
+  * **for yield**
+    * [alvinalexander Blog](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)**
   * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
-  * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
-    * [Excellent SOF answear](https://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits)
+  * **[implicits]
+    * [Scala tour](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+    * [Where does Scala look for implicits ?](https://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits)
     * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * **Collection**
   * Some practical [advices](https://abstractionextraction.wordpress.com/2014/04/12/a-simple-view-of-scala-sequences/)
@@ -44,7 +47,8 @@ Some comments will be added with time :smile: !
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
   * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
 * **Tail recursiv functions**
-* **[Covariance and Contravariance](https://docs.scala-lang.org/tour/variances.html)**
+* **Covariance and Contravariance**
+  * [Scala tour](https://docs.scala-lang.org/tour/variances.html)**
   * http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/
   * https://twitter.github.io/scala_school/type-basics.html
   * https://apiumhub.com/tech-blog-barcelona/scala-generics-covariance-contravariance/
