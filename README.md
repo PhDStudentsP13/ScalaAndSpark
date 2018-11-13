@@ -36,6 +36,7 @@ Some comments will be added with time :smile: !
 * **Collection**
   * Some practical [advices](https://abstractionextraction.wordpress.com/2014/04/12/a-simple-view-of-scala-sequences/)
   * [Hints](https://alvinalexander.com/scala/understanding-performance-scala-collections-classes-methods-cookbook) about collection operations complexity
+  * [collect](https://www.scala-lang.org/api/current/scala/collection/Traversable.html#collect[B](pf:PartialFunction[A,B]):Traversable[B]) or how to filter and map in one pass
 * **Class**
   * [Overview](https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters)
 * **Option** or the nice way to avoid null
