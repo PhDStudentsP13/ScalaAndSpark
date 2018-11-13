@@ -28,6 +28,7 @@ Some comments will be added with time :smile: !
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
   * **[implicits](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+    * [Excellent SOF answear](https://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits)
     * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * **Collection**
   * Some practical [advices](https://abstractionextraction.wordpress.com/2014/04/12/a-simple-view-of-scala-sequences/)
