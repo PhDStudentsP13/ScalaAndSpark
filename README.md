@@ -23,14 +23,14 @@ Some comments will be added with time :smile: !
 
 * **Keywords**
   * **for with conditions**
-    * [alvinalexander Blog](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)**
+    * [alvinalexander Blog](https://alvinalexander.com/scala/how-to-for-loop-embedded-if-statements-guards-scala)
   * **for yield**
-    * [alvinalexander Blog](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)**
+    * [alvinalexander Blog](https://alvinalexander.com/scala/scala-for-loop-yield-examples-yield-tutorial)
   * **lazy**
     * [What does a lazy val do ?](https://stackoverflow.com/questions/7484928/what-does-a-lazy-val-do)
     * [Interesting explanations](https://blog.codecentric.de/2016/02/lazy-vals-scala-look-hood/)
-  * **[implicits]
-    * [Scala tour](https://docs.scala-lang.org/tour/implicit-parameters.html)**
+  * **[implicits]**
+    * [Scala tour](https://docs.scala-lang.org/tour/implicit-parameters.html)
     * [Where does Scala look for implicits ?](https://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits)
     * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
 * **Collection**
