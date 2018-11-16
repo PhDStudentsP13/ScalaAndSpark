@@ -47,6 +47,8 @@ Some comments will be added with time :smile: !
 * **Generics**
   * [Class](https://docs.scala-lang.org/tour/generic-classes.html)
   * [Functions](https://docs.scala-lang.org/tour/polymorphic-methods.html)
+  * [Type Constructor Polymorphism](https://adriaanm.github.io/research/2010/10/06/new-in-scala-2.8-type-constructor-inference/)
+  * [Generics of a Higher Kind](https://lirias.kuleuven.be/bitstream/123456789/186940/4/tcpoly.pdf)
 * **Tail recursiv functions**
 * **Covariance and Contravariance**
   * [Scala tour](https://docs.scala-lang.org/tour/variances.html)**
