@@ -62,14 +62,20 @@ Some comments will be added with time :smile: !
 * **[Did you said monad ?](https://en.wikipedia.org/wiki/Monad_(functional_programming))**
   * http://blog.brakmic.com/writing-monads-in-scala-with-spark-notebook/
 
-### Annotations
+* **Annotations**
 
-* **@transient**
-* **@specialized**
-  * [Type specialization](https://dzone.com/articles/type-specialization-in-scala)
-  * [One StackOverFlow](https://stackoverflow.com/questions/39526409/correct-use-of-specialized-in-scala)
-  * [Another blog post on it](https://blog.scalac.io/2017/05/25/scala-specialization.html)
-  * [More advanced examples](http://aleksandar-prokopec.com/2013/11/03/specialization-quirks.html)
+  * **@transient**
+  * **@specialized**
+    * [Type specialization](https://dzone.com/articles/type-specialization-in-scala)
+    * [One StackOverFlow](https://stackoverflow.com/questions/39526409/correct-use-of-specialized-in-scala)
+    * [Another blog post on it](https://blog.scalac.io/2017/05/25/scala-specialization.html)
+    * [More advanced examples](http://aleksandar-prokopec.com/2013/11/03/specialization-quirks.html)
+
+## Scala sacred writtings
+
+* [Generics of a Higher Kind](https://lirias.kuleuven.be/bitstream/123456789/186940/4/tcpoly.pdf)
+* [Fighting Bit Rot with Types (Experience Report: Scala Collections)](http://lampwww.epfl.ch/~odersky/papers/fsttcs09.html)
+* [Type Classes as Objects and Implicits](https://infoscience.epfl.ch/record/150280/files/TypeClasses.pdf)
 
 ## Frameworks 
 
