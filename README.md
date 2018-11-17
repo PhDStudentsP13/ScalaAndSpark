@@ -33,6 +33,8 @@ Some comments will be added with time :smile: !
     * [Scala tour](https://docs.scala-lang.org/tour/implicit-parameters.html)
     * [Where does Scala look for implicits ?](https://stackoverflow.com/questions/5598085/where-does-scala-look-for-implicits)
     * [implicit design pattern](http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+* **Operator**
+ * [Scala @ operator](https://stackoverflow.com/questions/2359014/scala-operator)
 * **Collection**
   * Some practical [advices](https://abstractionextraction.wordpress.com/2014/04/12/a-simple-view-of-scala-sequences/)
   * [Hints](https://alvinalexander.com/scala/understanding-performance-scala-collections-classes-methods-cookbook) about collection operations complexity
