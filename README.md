@@ -214,3 +214,7 @@ Here are listed some blogs from where cames links in this page, thanks to these 
 * [Hands on Scala.js](http://www.lihaoyi.com/hands-on-scala-js/#IntrotoScala.js)
 * [Scala-js-d3](https://github.com/spaced/scala-js-d3)
 * [Getting started](https://medium.com/@michaelmangial1/getting-started-with-scala-js-scalavue-and-scalareact-for-the-javascript-developer-ac578ddcb5a8)
+
+# Scala 3
+
+* [Medium blog post](https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30)
