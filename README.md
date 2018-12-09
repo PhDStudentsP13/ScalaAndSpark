@@ -91,7 +91,7 @@ Some comments will be added with time :smile: !
   * [API](http://www.scalanlp.org/api/breeze/#breeze.package)
   * [Quickstart](https://github.com/scalanlp/breeze/wiki/Quickstart)
   * [Linear Algebra Cheat Sheet](https://github.com/scalanlp/breeze/wiki/Linear-Algebra-Cheat-Sheet)
-* **[Shapeless]**
+* **[Shapeless](https://github.com/milessabin/shapeless)**
   * [Introduction to shapeless](https://jto.github.io/articles/getting-started-with-shapeless/)
 * **[Spire](https://github.com/non/spire)**
 * **[Scala.js](https://www.scala-js.org/)**
