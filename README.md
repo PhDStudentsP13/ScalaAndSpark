@@ -95,6 +95,7 @@ Some comments will be added with time :smile: !
   * [Introduction to shapeless](https://jto.github.io/articles/getting-started-with-shapeless/)
 * **[Spire](https://github.com/non/spire)**
 * **[Scala.js](https://www.scala-js.org/)**
+* **[Monocle](https://github.com/julien-truffaut/Monocle)**
 
 ## Benchmarking Scala collections
 
