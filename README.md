@@ -1,6 +1,6 @@
 # Scala And Spark
 
-Welcome everybody. Because bookemarks are too confidentials, at Paris 13 university, we decided to share every usefull links we fall on during our ongoing learning of Scala and Spark, trying to organize them as well as we can. Don't hesitate to add cool links we have missed.
+Welcome ! Because bookemarks are too confidentials, at Paris 13 university, we decided to share every usefull links we fall on during our ongoing learning of Scala and Spark, trying to organize them as well as we can. Don't hesitate to add cool links we have missed.
 
 Some comments will be added with time :smile: !
 
@@ -118,7 +118,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
   * [Example 3](https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html)
 
 ## Miscellaneous
-
+* [flatMap to Option](https://dev.sortable.com/flatmap-to-option/)
 * [Union Types](http://milessabin.com/blog/2011/06/09/scala-union-types-curry-howard/)
 * [Equivalence between Java and Scala](http://rea.tech/java-to-scala-cheatsheet/)
 * [Returning the "Current" Type](https://tpolecat.github.io/2015/04/29/f-bounds.html)
