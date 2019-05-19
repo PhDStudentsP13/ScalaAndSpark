@@ -116,6 +116,8 @@ Because we hardly desire to know the commodities comming with our favorite scala
   * [Example 1](https://alvinalexander.com/scala/fp-book/type-classes-101-introduction)
   * [Example 2](https://danielwestheide.com/blog/2013/02/06/the-neophytes-guide-to-scala-part-12-type-classes.html)
   * [Example 3](https://blog.scalac.io/2017/04/19/typeclasses-in-scala.html)
+* [Scala Design Patterns 2nd Edition](https://www.packtpub.com/application-development/scala-design-patterns-second-edition)
+  * A must have !
 
 ## Miscellaneous
 * [flatMap to Option](https://dev.sortable.com/flatmap-to-option/)
@@ -127,6 +129,7 @@ Because we hardly desire to know the commodities comming with our favorite scala
 * [One of many advantage of Spire](https://typelevel.org/blog/2013/07/07/generic-numeric-programming.html)
 * [Higher-kinded types: the difference between giving up, and moving forward](https://typelevel.org/blog/2016/08/21/hkts-moving-forward.html)
 * [A simpler way to returning the "current" type in Scala](https://gist.github.com/odersky/56323c309a186cffe9af)
+* [Curious case of putting override modifier when overriding an abstract method in Scala](http://eed3si9n.com/curious-case-of-putting-override-modifier)
 
 ## [Sbt](https://www.scala-sbt.org/)
 
@@ -203,6 +206,7 @@ Here are listed some blogs from where cames links in this page, thanks to these 
   * [Programming in Scala 3rd Edition](https://www.amazon.co.uk/Programming-Scala-3rd-Martin-Odersky/dp/0981531687) let's start by [Scala's father](https://en.wikipedia.org/wiki/Martin_Odersky) last edition book.
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
   * [A Spark online book](https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details)
+  * [Scala Design Patterns 2nd Edition](https://www.packtpub.com/application-development/scala-design-patterns-second-edition)
 * Blogs
   * [Twitter Scala School](https://twitter.github.io/scala_school/index.html)
   * [An awesome blog](http://www.lihaoyi.com/)
